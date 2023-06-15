@@ -20,11 +20,10 @@
   
   <h1 align="center">Redes Sociais</h1>
     <a href = "mailto: boscolorayane@gmail.com.com">
-      <img width="30" src="gmail.svg">
+      <img width="30" src="https://logos-marques.com/wp-content/uploads/2021/03/Gmail-Logo-2013.png">
     </a>
     <a href = "https://www.linkedin.com/in/rayane-marques-04ab39213/">
-      <img width="25" src="linkedin.svg">
+      <img width="25" src="https://th.bing.com/th/id/OIP.6uTQ7mOjYOD2sNKxUdnaNAHaHa?pid=ImgDet&rs=1">
     </a>
    </div>
   
-![Snake animation](https://github.com/DevRayaneMarques/DevRayaneMarques/blob/output/github-contribution-grid-snake.svg)
